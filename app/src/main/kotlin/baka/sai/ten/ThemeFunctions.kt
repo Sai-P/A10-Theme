@@ -5,9 +5,8 @@ import android.content.Context
 import android.content.pm.PackageManager
 import android.content.pm.Signature
 import android.os.RemoteException
-import android.widget.Toast
 import baka.sai.ten.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import baka.sai.ten.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
+import baka.sai.ten.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
 import baka.sai.ten.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")

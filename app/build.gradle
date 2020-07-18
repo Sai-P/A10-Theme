@@ -54,8 +54,8 @@ android {
 
             // Themers: DO NOT MODIFY
             buildConfigField "boolean", "ENFORCE_GOOGLE_PLAY_INSTALL", "false"
-            buildConfigField "String", "BASE_64_LICENSE_KEY", "\"\""
-            buildConfigField "String", "APK_SIGNATURE_PRODUCTION", "\"\""
+            buildConfigField "String", "BASE_64_LICENSE_KEY", ""
+            buildConfigField "String", "APK_SIGNATURE_PRODUCTION", ""
         }
         release {
             minifyEnabled true

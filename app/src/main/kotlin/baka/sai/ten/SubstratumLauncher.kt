@@ -10,30 +10,17 @@ import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import android.util.Log
 import android.widget.Toast
-import com.github.javiersantos.piracychecker.PiracyChecker
-import com.github.javiersantos.piracychecker.PiracyCheckerUtils
-import com.github.javiersantos.piracychecker.enums.InstallerID
-import com.github.javiersantos.piracychecker.enums.PiracyCheckerCallback
-import com.github.javiersantos.piracychecker.enums.PiracyCheckerError
-import com.github.javiersantos.piracychecker.enums.PirateApp
-import baka.sai.ten.AdvancedConstants.ENFORCE_MINIMUM_SUBSTRATUM_VERSION
-import baka.sai.ten.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
 import baka.sai.ten.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
 import baka.sai.ten.AdvancedConstants.OTHER_THEME_SYSTEMS
 import baka.sai.ten.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
 import baka.sai.ten.AdvancedConstants.SHOW_LAUNCH_DIALOG
-import baka.sai.ten.AdvancedConstants.SUBSTRATUM_FILTER_CHECK
-import baka.sai.ten.ThemeFunctions.SUBSTRATUM_PACKAGE_NAME
-import baka.sai.ten.ThemeFunctions.checkSubstratumIntegrity
+import baka.sai.ten.ThemeFunctions.checkApprovedSignature
 import baka.sai.ten.ThemeFunctions.getSelfSignature
-import baka.sai.ten.ThemeFunctions.getSelfVerifiedIntentResponse
 import baka.sai.ten.ThemeFunctions.getSelfVerifiedPirateTools
-import baka.sai.ten.ThemeFunctions.getSelfVerifiedThemeEngines
-import baka.sai.ten.ThemeFunctions.getSubstratumFromPlayStore
-import baka.sai.ten.ThemeFunctions.getSubstratumUpdatedResponse
-import baka.sai.ten.ThemeFunctions.hasOtherThemeSystem
 import baka.sai.ten.ThemeFunctions.isCallingPackageAllowed
-import baka.sai.ten.ThemeFunctions.isPackageInstalled
+import com.github.javiersantos.piracychecker.*
+import com.github.javiersantos.piracychecker.enums.InstallerID
+import com.github.javiersantos.piracychecker.utils.apkSignature
 
 /**
  * NOTE TO THEMERS
@@ -158,7 +145,7 @@ class SubstratumLauncher : Activity() {
                         returnIntent.putExtra("encryption_key", BuildConfig.DECRYPTION_KEY)
                         returnIntent.putExtra("iv_encrypt_key", BuildConfig.IV_KEY)
 
-                        val callingPackage = intent.getStringExtra("calling_package_name")
+                        val callingPackage = intent.getStringExtra("calling_package_name")!!
                         if (!isCallingPackageAllowed(callingPackage)) {
                             finish()
                         } else {
