@@ -24,7 +24,7 @@ android {
     compileSdkVersion 30
     android.applicationVariants.all { final variant ->
         variant.outputs.all {
-            outputFileName = "pie-theme-v${variant.versionCode}.apk"
+            outputFileName = "a10-theme-v${variant.versionCode}.apk"
         }
     }
     defaultConfig {
@@ -33,7 +33,7 @@ android {
         applicationId "baka.sai.pie"
         // We are only supporting Nougat and above, all new changes will incorporate Nougat changes
         // to the substratum repo rather than anything lower. Keep targetSdkVersion the same.
-        minSdkVersion 28
+        minSdkVersion 29
         // Both versions must be changed to increment on Play Store/user's devices
         versionCode 1
         versionName "one"

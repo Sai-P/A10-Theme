@@ -1,4 +1,4 @@
-package baka.sai.pie
+package baka.sai.ten
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -6,9 +6,9 @@ import android.content.pm.PackageManager
 import android.content.pm.Signature
 import android.os.RemoteException
 import android.widget.Toast
-import baka.sai.pie.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import baka.sai.pie.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
-import baka.sai.pie.AdvancedConstants.OTHER_THEME_SYSTEMS
+import baka.sai.ten.AdvancedConstants.BLACKLISTED_APPLICATIONS
+import baka.sai.ten.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
+import baka.sai.ten.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {

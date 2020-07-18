@@ -1,6 +1,6 @@
-# Pie-Theme
+# Android 10-Theme
 
-### Welcome to the GitHub Repository for Sai's Pie Theme! You can find all the resources of my theme here. Feel free to contribute to it or build it for yourselves!
+### Welcome to the GitHub Repository for Sai's Android 10 Theme! You can find all the resources of my theme here. Feel free to contribute to it or build it for yourselves!
 
 <a href="https://play.google.com/store/apps/details?id=baka.sai.pie" target="_blank">
   <img alt="Get it on Google Play"

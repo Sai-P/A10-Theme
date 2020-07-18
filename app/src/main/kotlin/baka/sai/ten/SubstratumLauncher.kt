@@ -1,6 +1,6 @@
 @file:Suppress("ConstantConditionIf")
 
-package baka.sai.pie
+package baka.sai.ten
 
 import android.app.Activity
 import android.content.Context
@@ -16,24 +16,24 @@ import com.github.javiersantos.piracychecker.enums.InstallerID
 import com.github.javiersantos.piracychecker.enums.PiracyCheckerCallback
 import com.github.javiersantos.piracychecker.enums.PiracyCheckerError
 import com.github.javiersantos.piracychecker.enums.PirateApp
-import baka.sai.pie.AdvancedConstants.ENFORCE_MINIMUM_SUBSTRATUM_VERSION
-import baka.sai.pie.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
-import baka.sai.pie.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import baka.sai.pie.AdvancedConstants.OTHER_THEME_SYSTEMS
-import baka.sai.pie.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
-import baka.sai.pie.AdvancedConstants.SHOW_LAUNCH_DIALOG
-import baka.sai.pie.AdvancedConstants.SUBSTRATUM_FILTER_CHECK
-import baka.sai.pie.ThemeFunctions.SUBSTRATUM_PACKAGE_NAME
-import baka.sai.pie.ThemeFunctions.checkSubstratumIntegrity
-import baka.sai.pie.ThemeFunctions.getSelfSignature
-import baka.sai.pie.ThemeFunctions.getSelfVerifiedIntentResponse
-import baka.sai.pie.ThemeFunctions.getSelfVerifiedPirateTools
-import baka.sai.pie.ThemeFunctions.getSelfVerifiedThemeEngines
-import baka.sai.pie.ThemeFunctions.getSubstratumFromPlayStore
-import baka.sai.pie.ThemeFunctions.getSubstratumUpdatedResponse
-import baka.sai.pie.ThemeFunctions.hasOtherThemeSystem
-import baka.sai.pie.ThemeFunctions.isCallingPackageAllowed
-import baka.sai.pie.ThemeFunctions.isPackageInstalled
+import baka.sai.ten.AdvancedConstants.ENFORCE_MINIMUM_SUBSTRATUM_VERSION
+import baka.sai.ten.AdvancedConstants.MINIMUM_SUBSTRATUM_VERSION
+import baka.sai.ten.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import baka.sai.ten.AdvancedConstants.OTHER_THEME_SYSTEMS
+import baka.sai.ten.AdvancedConstants.SHOW_DIALOG_REPEATEDLY
+import baka.sai.ten.AdvancedConstants.SHOW_LAUNCH_DIALOG
+import baka.sai.ten.AdvancedConstants.SUBSTRATUM_FILTER_CHECK
+import baka.sai.ten.ThemeFunctions.SUBSTRATUM_PACKAGE_NAME
+import baka.sai.ten.ThemeFunctions.checkSubstratumIntegrity
+import baka.sai.ten.ThemeFunctions.getSelfSignature
+import baka.sai.ten.ThemeFunctions.getSelfVerifiedIntentResponse
+import baka.sai.ten.ThemeFunctions.getSelfVerifiedPirateTools
+import baka.sai.ten.ThemeFunctions.getSelfVerifiedThemeEngines
+import baka.sai.ten.ThemeFunctions.getSubstratumFromPlayStore
+import baka.sai.ten.ThemeFunctions.getSubstratumUpdatedResponse
+import baka.sai.ten.ThemeFunctions.hasOtherThemeSystem
+import baka.sai.ten.ThemeFunctions.isCallingPackageAllowed
+import baka.sai.ten.ThemeFunctions.isPackageInstalled
 
 /**
  * NOTE TO THEMERS
