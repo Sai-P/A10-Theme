@@ -1,4 +1,4 @@
-# Android 10-Theme
+# A10-Theme
 
 ### Welcome to the GitHub Repository for Sai's Android 10 Theme! You can find all the resources of my theme here. Feel free to contribute to it or build it for yourselves!
 
