@@ -2,7 +2,15 @@
 <resources>
     <style name="CardView" parent="@*com.android.settings:style/Base.CardView" />
 	
-    <style name="Theme.AlertDialog" parent="@*android:style/Theme.Material.Dialog.Alert">
+    <style name="Theme.AlertDialog" parent="@*com.android.settings:style/Theme.AlertDialog.Base">
+		<item name="android:textAppearanceMedium">@*com.android.settings:style/TextAppearance.DialogMessage</item>
+        <item name="android:windowTitleStyle">@*android:style/DialogWindowTitle.DeviceDefault</item>
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:actionBarStyle">@*com.android.settings:style/Widget.ActionBar</item>
+        <item name="buttonBarButtonStyle">@*android:style/Widget.DeviceDefault.Button.ButtonBar.AlertDialog</item>
+        <item name="dialogCornerRadius">@*android:dimen/config_dialogCornerRadius</item>
         <item name="android:textColorPrimary">#ffffffff</item>
         <item name="android:textColorSecondary">#ffdddddd</item>
         <item name="android:colorBackground">@*android:color/background_material_dark</item>
@@ -10,7 +18,32 @@
         <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_dark</item>
         <item name="android:colorAccent">@*android:color/accent_material_dark</item>
     </style>
-    <style name="Theme.SettingsAlertDialog" parent="@*android:style/Theme.Material.Dialog.Alert" />
-    <style name="Theme.SettingsDialog" parent="@*android:style/Theme.Material.Dialog.NoActionBar" />
-    <style name="Theme.SmartBar.Dialog" parent="@*android:style/Theme.Material.Dialog.Alert" />
+	
+	<style name="TextAppearance.SearchBar" parent="@*android:style/TextAppearance.Material.Widget.Toolbar.Subtitle">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:fontFamily">google-sans</item>
+    </style>
+	
+    <style name="SuggestionCardText">
+        <item name="android:fontFamily">google-sans</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+	
+    <style name="SuggestionCardIcon">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginStart">12.0dip</item>
+        <item name="android:layout_marginEnd">12.0dip</item>
+        <item name="android:layout_alignParentStart">false</item>
+    </style>
+	
+    <style name="TextAppearance.SuggestionSummary" parent="@*android:style/TextAppearance.Small">
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:fontFamily">google-sans</item>
+    </style>
+	
+    <style name="TextAppearance.SuggestionTitle" parent="@*android:style/TextAppearance.DeviceDefault.Subhead">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:fontFamily">google-sans</item>
+    </style>
 </resources>
