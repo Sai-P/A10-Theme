@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Circles-->
+    <color name="homepage_about_background">#ff6f86da</color>
+    <color name="homepage_accessibility_background">#ff5011c1</color>
+    <color name="homepage_accounts_background">#fff15b8d</color>
+    <color name="homepage_app_and_notification_background">#ffff7e0f</color>
+    <color name="homepage_battery_background">#ff258982</color>
+    <color name="homepage_connected_device_background">>#ff72b70f</color>
+    <color name="homepage_display_background">#ffffa727</color>
+    <color name="homepage_generic_icon_background">#ff1a73e8</color>
+    <color name="homepage_location_background">#ff2ec7dc</color>
+    <color name="homepage_network_background">#ff2196f3</color> 
+	<color name="homepage_privacy_background">#ff5e97f6</color>
+    <color name="homepage_security_background">#ff0f9d58</color>
+    <color name="homepage_sound_background">#ff01b1af</color>
+    <color name="homepage_storage_background">#ffc14ce6</color>
+    <color name="homepage_support_background">#ff26459c</color>
+    <color name="homepage_system_background">#ff9e9e9e</color>
+    <color name="homepage_owlsnest_background">#ffff6868</color>
+    <color name="homepage_rr_background">#fff05361</color>
+</resources>

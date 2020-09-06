@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Circles-->
+    <color name="homepage_about_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff9fa8da--> 
+    <color name="homepage_accessibility_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff5011c1-->
+    <color name="homepage_accounts_background">@*android:color/material_deep_teal_500</color>   <!--OG:#fff15b8d-->
+    <color name="homepage_app_and_notification_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffff7e0f-->
+    <color name="homepage_battery_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff258982-->
+    <color name="homepage_connected_device_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff71a234-->
+    <color name="homepage_display_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffffb600-->
+    <color name="homepage_generic_icon_background">@*android:color/material_deep_teal_500</color>   <!--TBD--><!--OG:#ff1a73e8-->
+	<color name="homepage_location_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff2ec7dc-->
+    <color name="homepage_network_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff2196f3-->
+	<color name="homepage_privacy_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff5e97f6-->
+    <color name="homepage_security_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff0f9d58-->
+    <color name="homepage_sound_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff01b1af-->
+    <color name="homepage_storage_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffc14ce6-->
+    <color name="homepage_support_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff26459c-->
+    <color name="homepage_system_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff757575-->
+    <color name="homepage_owlsnest_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffff6868-->
+    <color name="homepage_rr_background">@*android:color/material_deep_teal_500</color> <!--OG:#fff05361-->
+    <color name="owlsnest_oval_advanced">#00000000</color>   <!--OG:#ffff6868-->
+    <color name="owlsnest_oval_buttons">#00000000</color>   <!--OG:#ff31aa5c-->
+    <color name="owlsnest_oval_gesture">#00000000</color>   <!--OG:#ffffaf66-->
+    <color name="owlsnest_oval_lockscreen">#00000000</color>   <!--OG:#ff84a7f4-->
+    <color name="owlsnest_oval_nav">#00000000</color>   <!--OG:#fff4d484-->
+    <color name="owlsnest_oval_notif">#00000000</color>   <!--OG:#ff9863d8-->
+    <color name="owlsnest_oval_qs">#00000000</color>   <!--OG:#fffa6dff-->
+    <color name="owlsnest_oval_recents">#00000000</color>   <!--OG:#ff6fdb3d-->
+    <color name="owlsnest_oval_status">#00000000</color>   <!--OG:#ff8da2e8-->
+</resources>
