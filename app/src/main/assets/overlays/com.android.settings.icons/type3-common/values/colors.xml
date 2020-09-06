@@ -9,7 +9,9 @@
     <color name="homepage_connected_device_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff71a234-->
     <color name="homepage_display_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffffb600-->
     <color name="homepage_generic_icon_background">@*android:color/material_deep_teal_500</color>   <!--TBD--><!--OG:#ff1a73e8-->
+	<color name="homepage_location_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff2ec7dc-->
     <color name="homepage_network_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff2196f3-->
+	<color name="homepage_privacy_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff5e97f6-->
     <color name="homepage_security_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff0f9d58-->
     <color name="homepage_sound_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ff01b1af-->
     <color name="homepage_storage_background">@*android:color/material_deep_teal_500</color>   <!--OG:#ffc14ce6-->
