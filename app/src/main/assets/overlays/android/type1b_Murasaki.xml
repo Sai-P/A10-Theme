@@ -5,8 +5,6 @@ Author: Sai (BakaSai)
 <resources>
     <!--Settings App-->
     <color name="background_material_dark">#1E1A2B</color>    <!--OG:@color/material_grey_850-->
-	<color name="primary_dark_device_default_settings">#1E1A2B</color>    <!--OG:#ff000000-->
-	<color name="primary_device_default_settings">#1E1A2B</color>    <!--OG:#ff2d2d2d-->
 
     <!--Volume Panel-->
     <color name="primary_material_dark">#1E1A2B</color>    <!--OG:@color/material_grey_900-->
@@ -16,7 +14,4 @@ Author: Sai (BakaSai)
     <color name="bright_foreground_light_disabled">#81231E33</color>   <!--OG:##80000000-->
     <color name="background_holo_dark">#1E1A2B</color>   <!--OG:#ff000000-->
     <color name="user_icon_8">#FFFFFF</color>
-	<color name="background_floating_device_default_dark">#231E33</color>   <!--OG:#ff3c4043-->
-	<color name="primary_dark_device_default_dark">#1E1A2B</color>   <!--OG:#ff242424-->
-    <color name="primary_device_default_dark">#1E1A2B</color>   <!--OG:#ff2d2d2d-->
 </resources>

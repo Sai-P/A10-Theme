@@ -2,8 +2,6 @@
 <resources>
     <!--Settings App-->
     <color name="background_material_dark">#000000</color>    <!--OG:@color/material_grey_850-->
-	<color name="primary_dark_device_default_settings">#000000</color>    <!--OG:#ff000000-->
-	<color name="primary_device_default_settings">#000000</color>    <!--OG:#ff2d2d2d-->
 
     <!--Volume Panel-->
     <color name="primary_material_dark">#000000</color>    <!--OG:@color/material_grey_900-->
@@ -13,9 +11,6 @@
     <color name="bright_foreground_light_disabled">#81000000</color>   <!--OG:##80000000-->
     <color name="background_holo_dark">#000000</color>
     <color name="user_icon_8">#FFFFFF</color>
-	<color name="background_floating_device_default_dark">#000000</color>   <!--OG:#ff3c4043-->
-	<color name="primary_dark_device_default_dark">#000000</color>   <!--OG:#ff242424-->
-    <color name="primary_device_default_dark">#000000</color>   <!--OG:#ff2d2d2d-->
 
     <!--Settings App-->
     <style name="Theme.DeviceDefault.Settings" parent="@*android:style/Theme.Material" />
