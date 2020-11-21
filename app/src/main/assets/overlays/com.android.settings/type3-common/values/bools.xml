@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_show_avatar_in_homepage">true</bool>
+    <bool name="config_has_help">true</bool>
+    <bool name="config_use_legacy_suggestion">false</bool>
+    <bool name="config_useRoundIcon">true</bool>
+</resources>
