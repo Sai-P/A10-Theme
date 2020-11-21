@@ -6,4 +6,5 @@
     <color name="condition_card_background">@*android:color/background_holo_dark</color>   <!--OG:#fff8f8f8-->
     <color name="material_grey_300">@*android:color/background_material_dark</color>   <!--OG:#ffe0e0e0-->
     <color name="suggestion_condition_background">@*android:color/background_floating_material_dark</color>   <!--OG:#fff2f2f2-->
+	<color name="contextual_card_dismissal_background">@*android:color/background_holo_dark</color>   <!--OG:@android:color/material_grey_100-->
 </resources>
