@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_card_color">@*android:color/transparent</color>
+    <color name="contextual_card_background">@*android:color/transparent</color>
+    <color name="dialog_background">@*android:color/transparent</color>
+    <color name="search_bar_background">@*android:color/transparent</color>
+    <color name="homepage_card_dismissal_background">@*android:color/transparent</color>
+</resources>
