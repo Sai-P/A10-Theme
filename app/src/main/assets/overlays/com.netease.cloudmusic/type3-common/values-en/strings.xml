@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="a2"> The playlist reaches the upper limit of %1$d, and the remaining playlists failed to import </string>
+    <string name="a4">%1$d playlists have been imported</string>
+    <string name="a5">Failed to import the playlist, please try again later. </string>
+    <string name="a6">The network connection failed, please try again later. </string>
+    <string name="a8"> performance monitoring </string>
+    <string name="fa"> The event has ended</string>
+    <string name="oq">The content is loading, please do not move the phone away from the scanned object</string>
+    <string name="or">"%1$s is being prepared, please wait...
+Loading %2$d%%"</string>
+    <string name="ow">Aim at the front of the AR logo map, pay attention to close focus.</string>
+    <string name="oy"> NetEase Cloud Music AR Sharing</string>
+    <string name="vn">Sorry, due to mobile phone system restrictions, Cloud Music cannot directly delete the song files on the external SD card. Your authorization is required. If authorization fails, you can also delete it manually in the system file manager. </string>
+    <string name="vo"> to authorize</string>
+    <string name="vq">OK, try again</string>
+    <string name="vr">OK, go to authorize</string>
+    <string name="vs">Please see the following graphic tutorial, and then click the button to authorize. The pages on different models may be different. </string>
+    <string name="vt"> authorization failed</string>
+    <string name="a5h"> Please enter hexadecimal or comma-separated A, R, G, B colour value</string>
+    <string name="adr"> Comment sharing</string>
+    <string name="agt"> Connect DLNA device</string>
+    <string name="ajc"> Currently in 3G/4G/5G network </string>
+    <string name="al9">Your free data service has expired, and it is no longer free to use data under 3G/4G/5G network. The 3G/4G/5G trial listening and download switch has been turned off for you to avoid data consumption. </string>
+    <string name="al_"> It has been detected that you have subscribed to %1$s. Activate now for free, listen to songs online, download data free of charge~</string>
+    <string name="ala"> The resource pack download cannot be free of traffic, please pay attention. </string>
+    <string name="alb"> Telecommunications stipulates that the current month’s free flow usage limit is 6G, and you have reached the current month’s limit and cannot continue free flow (the service will automatically resume at the beginning of next month). The "WiFi only" switch has been turned on for you. If you need to *consume mobile package data* to use the network, you can turn off the switch in the settings. </string>
+    <string name="ale">%1$s service has expired, if you did not unsubscribe voluntarily, please re-open according to the service rules. </string>
+    <string name="an2"> The song has been downloaded, delete the downloaded file? </string>
+    <string name="an3">The radio program has been downloaded. Do you want to delete the downloaded file? </string>
+    <string name="asq">About DLNA</string>
+    <string name="asz">When a playable device is detected, the DLNA button will appear in the upper right corner of the lyrics on the playback page. </string>
+    <string name="at0">Using DLNA technology can transfer the massive high-quality music of NetEase Cloud Music via Wi-Fi to devices that support DLNA under the same network for music playback. </string>
+    <string name="aun"> Are you sure to download the AR resource package? </string>
+    <string name="auo">AR resource package is %s size, are you sure to download? </string>
+    <string name="axq"> You and TA have won a chance to draw a lottery, you cannot repeat the invitation</string>
+    <string name="az5"> open cloud capture </string>
+    <string name="b8u"> Follow me, you can receive more content push~</string>
+    <string name="bdu"> Comment area rules>></string>
+    <string name="bkz"> view the setup guide</string>
+    <string name="bl0"> Android users only wifi networking operation guidelines</string>
+    <string name="bl2">"If the desktop lyrics cannot be displayed on Huawei mobile phones or EMUI system, please go to:
+Phone Settings -> All Settings -> Notification Management -> Floating Window Management -> NetEase Cloud Music
+Just open the floating window option"</string>
+    <string name="bl3">"If the desktop lyrics cannot be displayed on Huawei mobile phones, please go to:
+Mobile Manager -> Permission Management -> Floating Window -> NetEase Cloud Music
+Just open the floating window option"</string>
+    <string name="bqj"> Invite friends to fill in the invitation code and get the resurrection card</string>
+    <string name="bqp"> Many professional DJs and musicians make playlists on NetEase Cloud Music! You must try this and find that music is so convenient. p.s. I also build a playlist by myself~</string>
+    <string name="bsh">"Because the Android system above 4.4 restricts the writing of external memory cards, the original download directory cannot be used and has been automatically replaced with the new directory.
+
+Please manually migrate all files in the original directory to the new directory, click to view the migration method. "</string>
+    <string name="bzj">"Long press the QR code to download NetEase Cloud Music
+Search for "War of Philharmonic" in the APP to participate"</string>
+    <string name="c43"> failed to load</string>
+    <string name="c4a"> is loading%d%%...</string>
+    <string name="c8q">I defeated %d people, but lost in this question</string>
+    <string name="cd4">Some Meizu mobile phones need to turn on the "Display interface under the lock screen" switch in \"Phone Manager-Authority Management-Cloud Music\" to set. </string>
+    <string name="cd5">Please set the display interface under the \"Mobile Manager-Authority Management-Cloud Music-Lock Screen\"</string>
+    <string name="cgp"> In order to play in the background, please click to view the setup tutorial</string>
+    <string name="cgq"> [important] Xiaomi users must set it up! </string>
+    <string name="cs0">Some comments are missing? </string>
+    <string name="cty"> Cloud Music Car Bluetooth </string>
+    <string name="d60"> turn on the 3G/4G/5G playback switch </string>
+    <string name="d6p"> "If the oppo mobile phone cannot display the desktop lyrics, please go to:
+Mobile Manager -> Privacy Authority -> Floating Window Management -> NetEase Cloud Music
+Just open the floating window option"</string>
+    <string name="d7d"> Unable to automatically open the authority setting page, please find the authority-related page, and grant NetEase Cloud Music floating window authority.</string>
+    <string name="ddz">API subdomain name</string>
+    <string name="def">Memory leak check</string>
+    <string name="dew"> connection pre-release environment </string>
+    <string name="diq">Use the flow to play</string>
+    <string name="dko">%1$s "all %2$s"</string>
+    <string name="dlm"> In order to protect your traffic, you need to turn on the 3G/4G/5G playback switch to play </string>
+    <string name="doq"> I am playing NetEase Cloud Music "The Battle of Philharmonic"</string>
+    <string name="dq9"> Please read and agree to "Anchor Radio Community Rules"</string>
+    <string name="dx4">"Welcome to use the NetEase Cloud Music Client. In order to provide a full range of services, you need to use the following permissions:
+
+1. Access to the Internet (used to listen to songs online)
+2. Get location information
+3. Call status and identification ID (pause music during a call)
+4. Read friends in the address book (invite friends and share music)
+5. Camera and microphone (take your avatar)
+6. Read and write memory card (store downloaded music)
+
+"OK" means that you have a clear understanding of the permissions used by this software and agree to use it. "</string>
+    <string name="e0r">Read and agree on "Anchor Radio Community Rules"</string>
+    <string name="e6v">Hello, because Android 6.0 and above have already supported the setting of specific APP at the system level [Only Wi-Fi connection], NetEase Cloud Music no longer provides this function. If you need to use this function, please Configure it in the system settings yourself, thank you for your understanding. </string>
+    <string name="e6w"> [only WiFi networking] function offline</string>
+    <string name="e_2">"1. Friends fill in your invitation code, and you all get a resurrection card.
+2. The resurrection card will be used automatically after you answer incorrectly.
+3. Only one resurrection card can be used in each game, and question 12 cannot be used.
+4. Fill in the exclusive invitation code for the partner brand. "</string>
+    <string name="e_3">Resurrection card rules</string>
+    <string name="edl"> I succeeded in reaching the top, and I got it</string>
+    <string name="edn">"Because your current Yunbei amount is relatively high, in order to avoid security risks, please complete the security certification as soon as possible!
+(If the certification is not completed, the Yunbei obtained subsequently will be frozen)"</string>
+    <string name="ehj"> Choose DLNA device></string>
+    <string name="ekj">Share the album "%2$s" by %1$s</string>
+    <string name="ekk">Share the album "%2$s" of %1$s: %3$s (from @网易云音乐)</string>
+    <string name="ekn"> Come and listen to the popular singles of %s</string>
+    <string name="eko">Share the singer%1$s</string>
+    <string name="ekp">Share the singer%1$s %2$s　 (from @网易云音乐)</string>
+    <string name="ekq">Share the singer: %s</string>
+    <string name="eku">Share the column of %1$s "%2$s";</string>
+    <string name="ekv">Share %1$s’ column article "%2$s": %3$s (from @网易云音乐)</string>
+    <string name="eky">Share comments:</string>
+    <string name="ekz">Share comments: %1$s (from @网易云音乐)</string>
+    <string name="el7">Share the show "%1$s"</string>
+    <string name="el8">Share the performance "%1$s": %2$s (from @网易云音乐)</string>
+    <string name="elh"> Sharing failed</string>
+    <string name="eli">Share NetEase Cloud Music Boutique Radio "%1$s": %2$s (from @网易云音乐)</string>
+    <string name="elv">\#Battle of Philiharmonic# Answer 12 questions correctly and win millions of cash. Use my invitation code %s to get a resurrection card. </string>
+    <string name="elw">\#Battle of Philiharmonic# I succeeded in reaching the top, and I got a bonus of ¥%.2f. Come join the battle of Philharmonic. </string>
+    <string name="elx"> Battle of Philharmonic-Answer 12 questions correctly and win a million prizes</string>
+    <string name="em6">Share the MV of %1$s "%2$s"</string>
+    <string name="em7">Share %1$s’s MV "%2$s": %3$s (from @网易云音乐)</string>
+    <string name="emk">Share the playlist of %1$s "%2$s"</string>
+    <string name="eml">Share the playlist "%2$s" created by %1$s: %3$s (from @网易云音乐)</string>
+    <string name="emo">Share the program "%2$s" of #%1$s#</string>
+    <string name="emp">Shared the program "%2$s" of #%1$s#: %3$s (from @网易云音乐)</string>
+    <string name="ems">Share anchor station#%1$s#</string>
+    <string name="emt">Share anchor station#%1$s#:%2$s (from @网易云音乐)</string>
+    <string name="emx">Share the single "%2$s" by %1$s</string>
+    <string name="emy">Share %1$s’s single "%2$s": %3$s (from @网易云音乐)</string>
+    <string name="enf"> sharing dynamics:</string>
+    <string name="eng">Share the dynamics of %1$s %2$s %3$s (@网易云音乐)</string>
+    <string name="enh"> sharing [%s] dynamic </string>
+    <string name="enk">%1$s’s video "%2$s"</string>
+    <string name="enl">%1$s’s video "%2$s": %3$s (from @网易云音乐)</string>
+    <string name="enr">Share [%s]’s short video</string>
+    <string name="ey_">"* Automatically cache songs under Wi-Fi, giving you a running FM without traffic;
+
+* Adjust the distribution of song rhythm according to your historical pace;
+
+* If you are disturbed, you can turn off the offline package function in "Settings". "</string>
+    <string name="eyi">Start running now! The system will detect your cadence and play songs that are consistent with your pace. </string>
+    <string name="f14">Your mobile phone system does not support this function temporarily</string>
+    <string name="fa9">Please upgrade Cloud Music to the latest version and try again</string>
+    <string name="fca">Use my invitation code to get the resurrection card</string>
+    <string name="fcb">Use my invitation code: %s</string>
+    <string name="fdq"> car Bluetooth player</string>
+    <string name="fdr"> Bluetooth connection is disconnected </string>
+    <string name="fds">Please keep the car radio frequency consistent with the FM transmitter frequency</string>
+    <string name="fdt">"Confirm that the logo light of NetEase Cloud Music Car Bluetooth Player is blinking
+Confirm that Bluetooth is turned on, and connect with NetEase Cloud Music Car Bluetooth Player
+Please check the help for the reasons and solutions for other setting failures"</string>
+    <string name="fdv"> failed to read the frequency of the car Bluetooth player</string>
+    <string name="fdw"> failed to send the setting command </string>
+    <string name="fdx"> frequency is set successfully </string>
+    <string name="fdy">Help</string>
+    <string name="fdz"> enter Bluetooth settings</string>
+    <string name="fe0">set stereo </string>
+    <string name="fe1">Help</string>
+    <string name="fe2"> Confirmation</string>
+    <string name="fe3"> complete</string>
+    <string name="fe4"> send setting command</string>
+    <string name="fe5"> is resetting frequency...</string>
+    <string name="fe6">Please set the car radio frequency to %sMHz</string>
+    <string name="fe7"> Retry</string>
+    <string name="fe8">FM transmitter frequency</string>
+    <string name="fe9">Failed to set the frequency of the player</string>
+    <string name="fe_">Bluetooth connection is disconnected, please reconnect the mobile phone and NetEase Cloud Music Car Bluetooth</string>
+    <string name="fea">Please cancel the Bluetooth pairing between the mobile phone and NetEase Cloud Music Car, and then reconnect</string>
+    <string name="feb">The transmission frequency is set successfully</string>
+    <string name="fec">set frequency</string>
+    <string name="fed"> read the stereo data successfully </string>
+    <string name="fee"> failed to read stereo data </string>
+    <string name="fef"> Stereo playback</string>
+    <string name="feg"> When enabled, the sound effect of stereo songs is improved, and the background noise may become larger</string>
+    <string name="feh">Please turn on the Bluetooth function</string>
+    <string name="fei">The mobile phone system version is low, please set the transmitter frequency with a mobile phone above Android4.0 system</string>
+    <string name="fej"> Failed to set transmitter frequency</string>
+    <string name="ffk">Please send a private message to the original video link or the source of the content to the cloud music video sauce, thank you for your support to NetEase cloud music video. </string>
+    <string name="ffp"> The appointment is successful, we will notify you by private message after the game is on the shelves</string>
+    <string name="fjd"> "If the Vivo mobile phone cannot display the desktop lyrics, please go to:
+i Butler -> Software Management -> Floating Window Management -> NetEase Cloud Music
+Just open the floating window option"</string>
+    <string name="fmw">"
+Has won the ¥%.2f bonus"</string>
+    <string name="fnx">"If the desktop lyrics cannot be displayed on Xiaomi mobile phones or MIUI systems, please go to:
+Phone Settings -> Other Application Management -> NetEase Cloud Music
+Just open the floating window option"</string>
+</resources>
