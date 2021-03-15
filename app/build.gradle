@@ -70,14 +70,14 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
-    buildToolsVersion '30.0.1'
+    buildToolsVersion '30.0.3'
 }
 this
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.github.javiersantos:PiracyChecker:1.2.5'
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version")
-    implementation('androidx.appcompat:appcompat:1.1.0')
+    implementation('androidx.appcompat:appcompat:1.2.0')
 }
 
 // Themers: DO NOT MODIFY ANYTHING BELOW
